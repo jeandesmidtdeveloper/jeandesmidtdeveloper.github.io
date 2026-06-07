@@ -9,7 +9,7 @@ excerpt: We travelled to Belgium and I tried 17 different beers.  A post on how 
 
 We recently took a roadtrip from the Netherlands to the Ardennen in Belgium. Its a beautiful green region that is situated between southeast Belgium, northern Luxembourg and France. The areas we visited were in Belgian region of Wallonia namely the cities of Dinant, La Roche-en-Ardennen and Durbuy. The scenery, weather and history was pleasant. I quickly discovered that there was no shortage of new beers to try, an activity which I found most enjoyable.
 
-I tried 17 beers and I have ranked them in the table below from most favourite to least favourite
+I tried 17 beers and I have ranked them in the table below from most favourite to least favourite:
 
 | Beer | Brewery | Rank|
 |:-----|:-----|:-----|
@@ -27,7 +27,7 @@ I tried 17 beers and I have ranked them in the table below from most favourite t
 |Philomen Florale|Brasserie de Clocher|12|
 |Lupulus Hopera| Brasserie Lupulus|13|
 |Bels Pilsener|Duvel Moortgat|14|
-|Westmalle Blond|Trappist ABbey of Westmalle|15|
+|Westmalle Blond|Trappist Abbey of Westmalle|15|
 |Ardenne Wood aged in CHablis barrel|Brassierie Minne|16|
 |Dinannt Biere Artisanala (Blonde)|Brassierie des Legendes|17|
 
