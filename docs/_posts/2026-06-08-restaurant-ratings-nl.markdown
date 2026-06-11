@@ -21,10 +21,8 @@ excerpt: Everytime I eat something at a restaurant in the Netherlands and it lea
 # Casual
 
 ### Sarban (8.3)
-<!-- 9 + 7 + 8 + 8 + 9 -->
 
 ### SHOKUDO (8.8)
-<!-- 8 + 8 + 9 + 10 + 10 -->
 
 What I've tried:
 - Takoyaki
@@ -32,14 +30,12 @@ What I've tried:
 - Yakitori
 
 ### Japanese DON Dining Kounosuke (8.55)
-<!-- 9 + 9 + 8 + 7 + 9 -->
 
 What I've tried:
 - Karaage Don
 
 
 ### The Madras Diaries (8.75)
-<!-- 10 + 9 + 8 + 7 + 7 -->
 
 What I've tried:
 - Medu Vadai
@@ -53,12 +49,10 @@ Gosht Rogan Josh
 - The Madras Diaries Prawn Curry
 
 ### Yemeni restaurant (8.35)
-<!-- 9 + 10 + 7 + 6 + 8 -->
 What I've tried:
 - I don't remember but it was good and the staff was friendly :)
 
 ### Sevilla (7.65)
-<!-- 8 + 7 + 7 + 8 + 8 -->
 What I've tried:
 - Patatas Bravas
 - Gambas al pil pil
@@ -67,7 +61,6 @@ What I've tried:
 
 
 ### Bar Cava (7)
-<!-- 7 + 7 + 7 + 7 + 7 -->
 What I've tried:
 - Albondigas
 - Gambas in knoflookolie & rode peper
@@ -76,8 +69,6 @@ What I've tried:
 - Entrecote
 
 ### Restaurant Blauw (8)
-
-<!-- 9 + 7 + 8 + 7 + 7 -->
 What I've tried:
 - Rijstafel Vlees
 - Rijstafel Vis
@@ -85,7 +76,6 @@ What I've tried:
 # Fine dining
 
 ### Concours Wine & Foodbar (8.55)
-<!-- 9 + 9 + 8 + 7 + 9 -->
 What I've tried:
 - Always a surprise multi course meal.
 

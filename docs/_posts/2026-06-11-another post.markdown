@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: "Curated Netherlands restaurant list" 
-date: 2026-06-08 
+date: 2026-06-11
 categories: [food] 
 tags: [food, restaurants] 
 excerpt: Everytime I eat something at a restaurant in the Netherlands and it leaves a lasting impression I add it to this list. Usually only places that I visit two or more times end on the list but sometimes I only have the opportunty to go once.
